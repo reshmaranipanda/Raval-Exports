@@ -3384,7 +3384,12 @@ margin-bottom: 20px;
 .why-video{
     position: relative;
 }
-
+.nav-tabs {
+    border-bottom: none !important;
+}
+.nav-tabs .nav-link {
+    border: none !important;
+}
 .why-choose h2,.why-choose h3 {
     color: #fff;
 }
